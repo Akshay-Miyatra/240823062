@@ -1,0 +1,20 @@
+{
+  "name": "240823062",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akshay-Miyatra/240823062.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akshay-Miyatra/240823062/issues"
+  },
+  "homepage": "https://github.com/Akshay-Miyatra/240823062#readme",
+  "description": ""
+}
