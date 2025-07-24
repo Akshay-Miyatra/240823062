@@ -16,5 +16,8 @@
     "url": "https://github.com/Akshay-Miyatra/240823062/issues"
   },
   "homepage": "https://github.com/Akshay-Miyatra/240823062#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
 }
