@@ -13,7 +13,7 @@ connection.connect((err)=>{
     }
     console.log('connected as id'+connection.threadId)
 
-    const user  = {name:'akshay',age:21}
+    const user  = {name:'Mihir',age:22}
     const sql = 'insert into student set ?'
 
     connection.query(sql,user,(err,result)=>{
