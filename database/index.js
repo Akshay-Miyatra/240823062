@@ -1,8 +1,6 @@
 const mongoose = require("mongoose")
 
-mongoose.connect("mongodb+srv://Miyatra_akshay:Akshay_29@cluster0.ujxun6h.mongodb.net/student",{
 
-})
 
 const studentschema = new mongoose.Schema({
     name:String,
